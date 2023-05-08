@@ -1,4 +1,4 @@
-# cutter
+# cutterx
 
 <a href="https://akifgrape.github.io/cutter">To play Once you're on the site</a>, you'll see a 3D grid of cubes. You can use your mouse to move the virtual knife around the screen. To slice a cube, click and drag the knife across the surface of the cube. The cube will split into two or more pieces, and you'll earn points for each piece you cut.
 
